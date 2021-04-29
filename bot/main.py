@@ -12,7 +12,7 @@ def cronograma(update, context):
     message += '<strong>Segue o cronograma da semana:</strong>\n\n'
 
     # Lendo arquivo
-    with open('cronograma.txt', 'r') as file:
+    with open('bot/cronograma.txt', 'r') as file:
         message += file.read()
 
     context.bot.send_message(
