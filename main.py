@@ -1,3 +1,4 @@
+import telegram
 from decouple import config
 from telegram.ext import CommandHandler, Updater
 
@@ -8,14 +9,15 @@ APP_NAME_HEROKU = config('APP_NAME_HEROKU')
 
 def cronograma(update, context):
     message = f'Olá, {update.message.from_user.first_name}! 😎\n'
-    message += 'Segue o cronograma da semana:\n\n'
+    message += '<strong>Segue o cronograma da semana:</strong>\n\n'
 
     # Lendo arquivo
     with open('cronograma.txt', 'r') as file:
         message += file.read()
 
     context.bot.send_message(
-        chat_id=update.effective_chat.id, text=message, disable_web_page_preview=True)
+        chat_id=update.effective_chat.id, text=message, disable_web_page_preview=True,
+        parse_mode=telegram.ParseMode.HTML)
 
 
 def main():
@@ -42,5 +44,5 @@ def main():
 
 
 if __name__ == "__main__":
-    print("Pressione CTRL + C para cancelar.")
+    print("Bot em execução.")
     main()
