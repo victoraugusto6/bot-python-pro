@@ -32,11 +32,10 @@ def main():
 
         updater.idle()
     else:
-        import os
-        PORT = int(os.environ.get('PORT', 5000))
+        port = int(config('PORT'))
 
         updater.start_webhook(listen="0.0.0.0",
-                              port=int(PORT),
+                              port=int(port),
                               url_path=TELEGRAM_TOKEN)
         updater.bot.setWebhook(f'https://{APP_NAME_HEROKU}.herokuapp.com/{TELEGRAM_TOKEN}')
 
