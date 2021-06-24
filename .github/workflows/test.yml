@@ -5,9 +5,7 @@ on: [ push ]
 jobs:
   build:
     env:
-      PIPENVS_NO_INHERIT: 1
-      PIPENV_IGNORE_VIRTUALENVS: 1
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GTHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     runs-on: ubuntu-latest
 
     steps:
@@ -19,8 +17,7 @@ jobs:
           architecture: x64
       - name: Instalar dependências
         run: |
-          pip install pipenv
-          pipenv sync --dev
+          pip install -r requirements-dev.txt
       - name: Rodar flake8
         uses: py-actions/flake8@v1
         with:
