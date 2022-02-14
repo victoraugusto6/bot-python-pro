@@ -1,8 +1,6 @@
-* Segunda-Feira - Turma Moacir Moda (20h) [Trilha Backend, Frontend e Ciência de Dados]
+* Segunda-Feira - Turma Moacir Moda (20h) [Webinário]
 
-* Terça-Feira - Monitoria Frontend Extra (20h)
-
-* Quinta-Feira - Mentoria sobre Carreira Técnica (20h)
+* Terça-Feira - Monitoria Frontend (20h)
 
 * Sexta-Feira - Monitoria (20h)
 
