@@ -1,10 +1,4 @@
-* Segunda-Feira - Turma Moacir Moda (20h) [Webinário]
-
-* Terça-Feira - Monitoria Frontend (20h)
-
-* Quinta-Feira - Bônus - Linkedin Irresistível (20h)
-
-* Sexta-Feira - Aula Extra / Monitoria - Frontend (20h)
+* Segunda-Feira - Turma Moacir Moda (20h) [Trilha Backend, Frontend e Ciência de Dados]
 
 * Sexta-Feira - Monitoria (20h)
 
