@@ -1,6 +1,4 @@
-* Quarta-Feira - Turma Moacir Moda (20h) [Webinário]
-
-* Quinta-Feira - Frontend de Carnaval (20h) [Frontend]
+* Quinta-Feira - Turma Moacir Moda (20h) [Backend]
 
 * Sexta-Feira - Monitoria
 
