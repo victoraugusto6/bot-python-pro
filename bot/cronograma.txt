@@ -1,6 +1,4 @@
-* Segunda-Feira - Turma Moacir Moda (20h) [Webinário]
-
-* Quinta-Feira - Desafio 3 [Frontend]
+* Segunda-Feira - Turma Moacir Moda (20h) [Trilha Backend, Frontend e Ciência de Dados]
 
 * Sexta-Feira - Monitoria
 
