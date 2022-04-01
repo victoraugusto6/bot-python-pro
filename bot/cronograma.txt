@@ -4,6 +4,6 @@
 
 * Quinta-Feira - Monitoria [Frontend]
 
-* Sexta-Feira - Monitoria
+* Sexta-Feira - Monitoria [Backend]
 
-* Sábado - Monitoria
+* Sábado - Monitoria [Backend]
