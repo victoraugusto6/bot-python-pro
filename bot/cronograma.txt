@@ -2,8 +2,8 @@
 
 * Terça-Feira - Turma Erle Carrara (20h) - [Trilha Backend, Frontend e Ciência de Dados]
 
-* Quinta-Feira - Monitoria [Frontend]
+* Quinta-Feira - Monitoria [Frontend] (20h)
 
-* Sexta-Feira - Monitoria [Backend]
+* Sexta-Feira - Monitoria [Backend] (20h)
 
-* Sábado - Monitoria [Backend]
+* Sábado - Monitoria [Backend] (20h)
