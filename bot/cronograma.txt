@@ -1,3 +1,5 @@
 * Segunda-Feira - Turma Moacir Moda (20h) [Trilha Backend, Frontend e Ciência de Dados]
 
 * Terça-Feira - Turma Erle Carrara (20h) - [Webinário]
+
+* Quinta-Feira - Monitoria [Frontend]
