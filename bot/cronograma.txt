@@ -1,7 +1,5 @@
-* Segunda-Feira - Webinário com Fábio Avenoso (20h)
+* Terça-Feira - Turma Erle Carrara (20h) - [Webinário]
 
-* Terça-Feira - Turma Erle Carrara (20h) - [Trilha Backend, Frontend e Ciência de Dados]
+* Sexta-Feira - Monitoria (20h)
 
-* Sexta-Feira - Monitoria (20h) [Backend]
-
-* Sábado - Monitoria (20h) [Backend]
+* Sábado - Monitoria (20h)
