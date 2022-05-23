@@ -1,6 +1,8 @@
-* Terça-Feira - Turma Erle Carrara (20h) - [Trilha Backend, Frontend e Ciência de Dados]
+* Segunda-Feira - Turma Erle Carrara (20h) - [Frontend - Flexbox]
 
-* Quarta-Feira - Live sobre transição para Comunidade DevPro (20h)
+* Terça-Feira - Turma Erle Carrara (20h) - [Webinário - Erle Carrara]
+
+* Quinta-Feira - Monitoria (20h) - [Frontend]
 
 * Sexta-Feira - Monitoria (20h)
 
